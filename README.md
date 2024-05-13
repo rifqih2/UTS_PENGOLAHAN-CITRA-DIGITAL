@@ -1,5 +1,4 @@
 # UTS_PENGOLAHAN-CITRA-DIGITAL
-# UTS_Pengolahan-Citra
 
 ## Image Manipulation App
 

@@ -9,7 +9,7 @@ Aplikasi ini adalah sebuah aplikasi sederhana yang memanipulasi gambar menggunak
 
 1. Clone repositori ini ke lokal Anda.
    ```shell
-   https://github.com/RianFauza/UTS_Pengolahan-Citra.git
+   https://github.com/rifqih2/UTS_PENGOLAHAN-CITRA-DIGITAL.git
    ```
 
 2. Masuk ke direktori proyek.
